@@ -1,2 +1,2 @@
 # csms-repo
-This is a cricket score management system
+This is a cricket score management system.
